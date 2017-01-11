@@ -5,7 +5,7 @@
     <artifactId>gameoflife</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>gameoflifeTEST2</name>
+    <name>gameoflifeTEST3</name>
     <url>https://github.com/wakaleo/game-of-life</url>
     <properties>
         <build.number>SNAPSHOT</build.number>
